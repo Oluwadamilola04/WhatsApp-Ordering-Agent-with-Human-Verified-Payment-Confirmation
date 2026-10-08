@@ -105,11 +105,11 @@ The final design: human approval via Telegram, cross-checked against the real ba
 
 <img width="665" height="738" alt="Screenshot 2026-09-26 212946" src="https://github.com/user-attachments/assets/057971e9-f1cb-4616-ab24-cbecaf7d8578" />
 
-### Final WhatsApp confirmation
+### 5. Final WhatsApp confirmation
 
 <img width="805" height="437" alt="image" src="https://github.com/user-attachments/assets/f1c47fcc-1ec2-4781-97d6-89a7d3d571b5" />
 
-### Orders Sheet showing Transaction Statuses
+### 6. Orders Sheet showing Transaction Statuses
 
 <img width="1300" height="282" alt="image" src="https://github.com/user-attachments/assets/b1c97336-2631-4de1-9e52-cf06cca2a0eb" />
 
